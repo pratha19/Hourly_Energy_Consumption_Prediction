@@ -1,6 +1,6 @@
 # Springboard_capstone_project_1
 As part of Springboard's Data Science career track this repo contains files and jupyter notebooks related to my first
-capstone- predicting energy consumption based on past hourly energy consumption data for a region in US. The region chosen was the utility regions under CAISO (California Independent System Operator), and specifically the SDGE (San Diego Gas and Electric) region was focused upon for building the prediction model. 
+capstone project. This project focuses on predicting energy consumption of the entire region in southern CA served by the SDGE (San Diego Gas and electric) utility (which comes under CAISO) based on the past 5 years of hourly energy consumption data. 
 
 #### File descriptions:
 ###### capstone1_project_proposal.docx
