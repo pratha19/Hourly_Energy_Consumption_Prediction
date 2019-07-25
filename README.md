@@ -16,3 +16,6 @@ Merging the energy data with weather and PV installations data and doing some ba
 
 ###### Capstone1_SDGE_hourly_energy_milestone.ipynb
 A single notebook file including data import of energy, weather and PV installation data files, Exploring the data files, doing statistical analysis, finding trends among energy, weather and PV installated capacity data.
+
+###### Capstone1_SDGE_milestone_ppt.pptx
+Presentation slide deck for the milestone report.
