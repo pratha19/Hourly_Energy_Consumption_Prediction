@@ -22,3 +22,19 @@ Presentation slide deck for the entire project.
 
 ###### [ca_elect_map.jpg](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/ca_elect_map.jpg)
 California map showing different electrical utility regions including the San Diego Gas and Electric (SDGE) which was the focus of this project.
+
+________________________________________________
+###### [LCD_weather_stations_NOAA.kmz](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/LCD_weather_stations_NOAA.kmz)
+Google earth kmz file showing locations of weather stations in US
+
+###### [NEM_CurrentlyInterconnectedDataKey.b29667e204f3.xlsx](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/NEM_CurrentlyInterconnectedDataKey.b29667e204f3.xlsx)
+PV installation dataset key to understand all the columns. Actual PV installations data couldn't be uploaded because it is >50MB. But the link of the data is given in the SDGE_energy_EDA.ipynb in its PV section. 
+
+###### [hourly1418CA.csv](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/hourly1418CA.csv)
+Hourly energy consumption data in MWH for all the 4 utilities of CA. 
+
+###### [hourly1418SDGE.csv](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/hourly1418SDGE.csv)
+Hourly energy consumption data in MWH for only SDGE.
+
+###### [houry_data_NOAA_2014_2018.csv](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/houry_data_NOAA_2014_2018.csv)
+NOAA weather data from 2014-18 for SDGE region (data of two stations including the SDGE airport which was used in this project). 
