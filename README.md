@@ -7,16 +7,16 @@ capstone project. This project focuses on predicting energy consumption of the e
 Contains the initial project proposal 
 
 ###### [SDGE_energy_EDA.ipynb](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/SDGE_energy_EDA.ipynb)
-A single notebook file including data import of energy, weather and PV installation data files, Exploring the data files, doing statistical analysis, EDA, finding trends among energy, weather and PV installated capacity data. Preparing the data for ML.
+A single notebook file including data import of energy, weather and PV installation data files, statistical analysis, EDA, finding trends among energy, weather and PV installation capacity data. Preparing the data for ML.
 
-###### [hourly1418_energy_temp_PV.csv] (https://github.com/pratha19/Springboard_capstone_project_1/blob/master/hourly1418_energy_temp_PV.csv)
-Contains the cleaned and merged data with energy time series, add time components, temperature and PV installations. This was used in the ML models.
+###### [hourly1418_energy_temp_PV.csv](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/hourly1418_energy_temp_PV.csv)
+Contains the cleaned and merged data with energy time series, added time components, temperature and PV installations. This was used in the ML models.
 
 ###### [SDGE_energy_ML.ipynb](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/SDGE_energy_ML.ipynb)
-A single notebook file including all the ML models that were tried on the dataset. Different models including elastic net, random forest, SARIMAX, FB Prophet, XBoost, XGBoost+FB Prophet were tried with some feature engineering techniques. The models were compared to the baseline forecast which just simply repeats the past forecast window values. 
+A single notebook file including all the ML models that were tried on the dataset. Different models including elastic net, random forest, SARIMAX, FB Prophet, XGBoost, XGBoost+FB Prophet were tried with some feature engineering techniques. These models were compared to the baseline forecast which simply repeats the past values. 
 
 ###### [Capstone1_SDGE.pptx](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/Capstone1_SDGE.pptx)
-Presentation slide deck for the entire project
+Presentation slide deck for the entire project.
 
 ###### [ca_elect_map.jpg](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/ca_elect_map.jpg)
 California map showing different electrical utility regions including the San Diego Gas and Electric (SDGE) which was the focus of this project.
