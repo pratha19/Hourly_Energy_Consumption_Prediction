@@ -6,7 +6,6 @@ capstone project. This project focuses on predicting energy consumption of the e
 ###### [Initial_project_proposal.docx](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/Initial_project_proposal.docx)
 Contains the initial project proposal 
 
-#### File descriptions:
 ###### [Capstone1_Final_Report.docx](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/Capstone1_Final_Report.docx)
 Contains the final project report from data import and EDA to ML
 
