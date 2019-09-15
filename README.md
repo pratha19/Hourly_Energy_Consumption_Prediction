@@ -6,6 +6,10 @@ capstone project. This project focuses on predicting energy consumption of the e
 ###### [Initial_project_proposal.docx](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/Initial_project_proposal.docx)
 Contains the initial project proposal 
 
+#### File descriptions:
+###### [Capstone1_Final_Report.docx](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/Capstone1_Final_Report.docx)
+Contains the final project report from data import and EDA to ML
+
 ###### [SDGE_energy_EDA.ipynb](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/SDGE_energy_EDA.ipynb)
 A single notebook file including data import of energy, weather and PV installation data files, statistical analysis, EDA, finding trends among energy, weather and PV installation capacity data. Preparing the data for ML.  
 [NBviewer link for the EDA notebook](https://nbviewer.jupyter.org/github/pratha19/Springboard_capstone_project_1/blob/master/SDGE_energy_EDA.ipynb#4)
@@ -19,11 +23,10 @@ A single notebook file including all the ML models that were tried on the datase
 
 ###### [Capstone1_SDGE.pptx](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/Capstone1_SDGE.pptx)
 Presentation slide deck for the entire project.
-
+________________________________________________
 ###### [ca_elect_map.jpg](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/ca_elect_map.jpg)
 California map showing different electrical utility regions including the San Diego Gas and Electric (SDGE) which was the focus of this project.
 
-________________________________________________
 ###### [LCD_weather_stations_NOAA.kmz](https://github.com/pratha19/Springboard_capstone_project_1/blob/master/LCD_weather_stations_NOAA.kmz)
 Google earth kmz file showing locations of weather stations in US
 
